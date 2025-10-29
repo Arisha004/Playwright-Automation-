@@ -10,6 +10,7 @@
 
 
 ## **Project Overview**
+[![Demo Preview]](https://github.com/Arisha004/Playwright-Automation-/blob/main/bandicam%202025-10-30%2001-23-57-190.mp4)
 
 This project automates functional testing on **Daraz.pk** using **Playwright** with the **Page Object Model (POM)** design pattern.
 It performs end-to-end automation for searching products, applying filters, validating product listings, and checking product details such as **Free Shipping** and **Stock Availability**.
